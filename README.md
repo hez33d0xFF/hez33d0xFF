@@ -17,7 +17,8 @@
 </div>
 
 ###
-
+----------------
+<h1> Skills:</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
