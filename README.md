@@ -11,8 +11,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hez33d0xFF/hez33d0xFF/output/snake.svg" alt="Snake animation" />
-
 ###
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAC/yetopen.gif"  />
